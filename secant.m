@@ -2,7 +2,7 @@
 % recoded by: Khakim Grey 
 % ref: http://www.codewithc.com/secant-method-matlab-program/
 
-function root = sacant(func,x1,x2,filter,tol)
+function root = secant(func,x1,x2,filter,tol)
 
 
 a=func;
