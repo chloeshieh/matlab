@@ -1,4 +1,4 @@
-% Program Code of Newton-Raphson Method in MATLAB 
+% Program to find root with Newton-Raphson Method - Metode Numerik
 % recoded by: Khakim Grey 
 % ref: http://www.codewithc.com/newton-raphson-method-matlab-program/
 
