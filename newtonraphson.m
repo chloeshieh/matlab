@@ -1,5 +1,6 @@
 % Program Code of Newton-Raphson Method in MATLAB 
-% http://www.codewithc.com/newton-raphson-method-matlab-program/
+% recoded by: Khakim Grey 
+% ref: http://www.codewithc.com/newton-raphson-method-matlab-program/
 
 
 function root = newtonraphson(func,x1,tol)
